@@ -29994,7 +29994,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39cb5bad0ef6cd448b67168bd2f6d445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: 4
+  velocity: 0.5
   cinta: {fileID: 606109688}
 --- !u!54 &1205506795
 Rigidbody:
